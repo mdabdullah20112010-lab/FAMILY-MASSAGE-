@@ -1,0 +1,7 @@
+{
+  "name": "FAMILY",
+  "description": "Fast, private family messaging with photo sharing, contact number sharing, and AMOLED dark design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
